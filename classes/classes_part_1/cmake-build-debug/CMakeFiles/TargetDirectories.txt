@@ -1,0 +1,3 @@
+C:/Users/Zabir/Desktop/classes/classes_part_1/cmake-build-debug/CMakeFiles/classes_part_1.dir
+C:/Users/Zabir/Desktop/classes/classes_part_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zabir/Desktop/classes/classes_part_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

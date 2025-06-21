@@ -1,0 +1,8 @@
+C:/Users/Zabir/Desktop/university/3. final year/c++ notes and projects/cpp_ms_video_course/classes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zabir/Desktop/university/3. final year/c++ notes and projects/cpp_ms_video_course/classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Zabir/Desktop/university/3. final year/c++ notes and projects/cpp_ms_video_course/classes/cmake-build-debug/classes_part_1/CMakeFiles/classes_part_1.dir
+C:/Users/Zabir/Desktop/university/3. final year/c++ notes and projects/cpp_ms_video_course/classes/cmake-build-debug/classes_part_1/CMakeFiles/edit_cache.dir
+C:/Users/Zabir/Desktop/university/3. final year/c++ notes and projects/cpp_ms_video_course/classes/cmake-build-debug/classes_part_1/CMakeFiles/rebuild_cache.dir
+C:/Users/Zabir/Desktop/university/3. final year/c++ notes and projects/cpp_ms_video_course/classes/cmake-build-debug/classes_part_3/CMakeFiles/classes_part_3.dir
+C:/Users/Zabir/Desktop/university/3. final year/c++ notes and projects/cpp_ms_video_course/classes/cmake-build-debug/classes_part_3/CMakeFiles/edit_cache.dir
+C:/Users/Zabir/Desktop/university/3. final year/c++ notes and projects/cpp_ms_video_course/classes/cmake-build-debug/classes_part_3/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "classes_part_1",
+					"jsonFile" : "directory-classes_part_1-Debug-4e7d2e0050d428378579.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "classes_part_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "classes_part_3",
+					"jsonFile" : "directory-classes_part_3-Debug-849d69c2a626b9aebf98.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "classes_part_3",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "classes"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "classes_part_1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "classes_part_3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "classes_part_1::@cae34e95973303f8db66",
+					"jsonFile" : "target-classes_part_1-Debug-90b061fe2d59edd191fc.json",
+					"name" : "classes_part_1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "classes_part_3::@2979dd3208026995318c",
+					"jsonFile" : "target-classes_part_3-Debug-9c9b1657a0dee46b48d2.json",
+					"name" : "classes_part_3",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Zabir/Desktop/university/3. final year/c++ notes and projects/cpp_ms_video_course/classes/cmake-build-debug",
+		"source" : "C:/Users/Zabir/Desktop/university/3. final year/c++ notes and projects/cpp_ms_video_course/classes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
